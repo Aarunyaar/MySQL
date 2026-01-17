@@ -18,3 +18,4 @@ SELECT * FROM students WHERE grade=90;
 
 6)
 SELECT * FROM students WHERE grade BETWEEN 70 AND 90;
+
